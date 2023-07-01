@@ -1,0 +1,12 @@
+{
+  "name": "family-liturgy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ryan Burgett <ryan@purposepowerlove.org>",
+  "license": "CC-BY-4.0"
+}
